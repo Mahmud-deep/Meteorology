@@ -1,6 +1,9 @@
 # Meteorology
 
-Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+
+# Overview
+A weather dashboard with form inputs when traveler search for a city it  presented with current and future conditions for that city and that city is added to the search history. It also presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity.
 
 
 # Links
